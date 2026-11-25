@@ -324,3 +324,7 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+
+.columns.banner.block.columns-1-cols {
+    background-color: black;
+}
